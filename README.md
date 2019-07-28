@@ -21,7 +21,7 @@
 	<select name="cities">
 		<option value="brijing">北京
 		<option value="shaghai">上海
-		<option value="guangzhou">广州
+		<option value="guangzhou">广东
 		<option value="xinyu">新余
 	</select>
 	<textarea row="5" co1s="5">
